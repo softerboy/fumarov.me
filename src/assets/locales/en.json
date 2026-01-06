@@ -6,7 +6,7 @@
         "contacts": "contacts"
     },
     "footer": {
-        "description": "Full-stack Developer based in Uzbekistan",
+        "description": "A Full-Stack developer who loves React, NodeJS, and Laravel.",
         "copyright": "Copyright 2023. Made by Elias",
         "media": "Media"
     },
@@ -115,7 +115,7 @@
             "description": "Who am i",
             "about": {
                 "description": [
-                  "I’m a self-taught full-stack developer based in Fergana, Uzbekistan. I build robust, scalable solutions from scratch, covering both front-end and back-end to deliver a seamless user experience.",
+                  "I’m a full-stack developer based in Fergana, Uzbekistan. I build robust, scalable solutions from scratch, covering both front-end and back-end to deliver a seamless user experience.",
                   "Turning ideas into end-to-end web applications has been my passion for over 5+ years. I’ve helped diverse clients bring their visions to life online and always keep up with the latest technologies and best practices."
                 ]
             },
@@ -125,10 +125,10 @@
             "facts": {
                 "title": "fun-facts",
                 "list": [
-                    "I like winter more than summer",
-                    "I often bike with my friends",
-                    "I like pizza and pasta",
-                    "My favorite movie is The Green Mile"
+                    "Passionate about LoFi music, which I often listen to while coding to maintain focus and creativity.",
+                    "Enjoy playing football regularly with friends to stay active and collaborative.",
+                    "Skilled in preparing steaks and kebab, combining culinary interest with attention to detail.",
+                    "Enthusiastic gamer; favorite title is Braid."
                 ]
             }
         },

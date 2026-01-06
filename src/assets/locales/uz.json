@@ -1,0 +1,139 @@
+{
+    "header": {
+        "home": "asosiy",
+        "projects": "loyihalar",
+        "about": "men-haqimda",
+        "contacts": "aloqalar"
+    },
+    "footer": {
+        "description": "Fahri - React, NodeJS va Laravel entuziazist",
+        "copyright": "Barcha huquqlar himoyalangan 2023. Elias tomonidan yaratilgan",
+        "media": "Media"
+    },
+    "skills": {
+        "language": "Tillar",
+        "database": "Ma'lumotlar bazasi",
+        "other": "Boshqa",
+        "tool": "Vositalar",
+        "framework": "Freymworklar"
+    },
+    "projects": {
+        "chertnodes": {
+            "name": "ChertNodes",
+            "description": "Minecraft serverlari hosting"
+        },
+        "protectx": {
+            "name": "ProtectX veb-sayti",
+            "description": "Anti-crash Discord bot uchun veb-sayt"
+        },
+        "khanswers": {
+            "name": "Kahoot Javoblari",
+            "description": "Kahoot topshiriqlaridan javoblarni olish"
+        },
+        "kotikbot": {
+            "name": "KotikBot",
+            "description": "Ko'p funksiyali Discord bot uchun veb-sayt"
+        },
+        "portfolio": {
+            "name": "Ushbu portfolio",
+            "description": "Mening shaxsiy portfoliom"
+        },
+        "blog": {
+            "name": "Mening blogim",
+            "description": "Kelajakdagi blogimning frontend qismi"
+        },
+        "discordbot": {
+            "name": "Discord bot shabloni",
+            "description": "TypeScript bilan Discord botini yaratishni soniyalarda boshlang"
+        },
+        "chesspro": {
+            "name": "Chess PRO",
+            "description": "Shaxmat turnirlarini ko'rish uchun veb-sayt"
+        },
+        "ooku": {
+            "name": "Ooku",
+            "description": "Discord autentifikatsiyasi bilan URL qisqartiruvchi"
+        },
+        "madhost": {
+            "name": "MadHost",
+            "description": "Arzon narxlarda veb-saytlar va Minecraft serverlari hosting"
+        },
+        "feedrum": {
+            "name": "Feedrum",
+            "description": "O'zbek dasturchilar uchun ijtimoiy tarmoq"
+        },
+        "deplos": {
+            "name": "Deplos",
+            "description": "Turli o'yinlar serverlari uchun hosting"
+        },
+        "pixel-battle": {
+            "name": "Pixel Battle",
+            "description": "r/place kloni"
+        }
+    },
+    "pages": {
+        "home": {
+            "hero": {
+                "title": "Salom, mening ismim Fahri. <span>Full-Stack dasturchi</span>man, <span>React</span>, <span>NodeJS</span> va <span>Laravel</span> bilan web ilovalar yarataman.",
+                "description": "Men frontend qismida foydalanuvchi tajribasini yaxshilash va backend qismida samarali, kengaytiriladigan API yaratishni yaxshi ko'raman. Doimo yangi texnologiyalarni o'rganishga va o'zlashtirishga tayyorman!",
+                "button": "Mening aloqalarim",
+                "status": "Yangi takliflar uchun ochiq"
+            },
+            "quote": {
+                "text": "Full-stack dasturchi — bu CSS xatosini backend API ni yangilab tuzatadigan odam… va bu negadir ish beradi.",
+                "author": "Mr. ItWorksOnMyMachine"
+            },
+            "projects": {
+                "title": "loyihalar",
+                "button": "Hammasini ko'rish"
+            },
+            "skills": {
+                "title": "ko'nikmalar"
+            },
+            "about": {
+                "title": "men-haqimda",
+                "description": [
+                    "Men — Farg‘ona, O‘zbekistonlik Full-Stack dasturchiman. Frontend va backendni qamrab olgan holda, boshidan mustahkam va kengaytiriladigan yechimlar yarataman, shunda foydalanuvchi uchun silliq va qulay tajriba taqdim etiladi.",
+                    "G‘oyalarni to‘liq veb-ilovalarga aylantirish — so‘nggi 5 yildan ortiq vaqt davomida mening ishtiyoqim bo‘lib keldi. Turli mijozlarga ularning onlayn loyihalarini hayotga tatbiq etishda yordam berdim va har doim eng so‘nggi texnologiyalar va eng yaxshi amaliyotlardan xabardor bo‘lib turaman."
+                ],
+                "button": "Hammasini ko‘rish"
+            },
+            "contacts": {
+                "title": "aloqalar",
+                "text": "Agar sizda savollar va takliflar bo‘lsa, men bilan bog‘lanishdan tortinmang.",
+                "media": "Menga shu yerga yozing",
+                "donate": "Xayriyalar shu yerga"
+            }
+        },
+        "projects": {
+            "description": "Mening loyihalarim",
+            "decent": "yaxshi",
+            "small": "kichik",
+            "inProgress": "jarayonda"
+        },
+        "about": {
+            "description": "Men kimman",
+            "about": {
+                "description": [
+                    "Men — Farg‘ona, O‘zbekistonlik Full-Stack dasturchiman. Frontend va backendni qamrab olgan holda, boshidan mustahkam va kengaytiriladigan yechimlar yarataman, shunda foydalanuvchi uchun silliq va qulay tajriba taqdim etiladi.",
+                    "G‘oyalarni to‘liq veb-ilovalarga aylantirish — so‘nggi 5 yildan ortiq vaqt davomida mening ishtiyoqim bo‘lib keldi. Turli mijozlarga ularning onlayn loyihalarini hayotga tatbiq etishda yordam berdim va har doim eng so‘nggi texnologiyalar va eng yaxshi amaliyotlardan xabardor bo‘lib turaman."
+                ]
+            },
+            "skills": {
+                "title": "ko‘nikmalar"
+            },
+            "facts": {
+                "title": "men-haqimda-faktlar",
+                "list": [
+                    "LoFi musiqasiga qiziqaman, kod yozayotganimda diqqatni jamlash va ijodkorlikni oshirish uchun tez-tez tinglayman.",
+                    "Do‘stlarim bilan muntazam futbol o‘ynashni yoqtiraman, bu faol bo‘lish va jamoaviy ruhni saqlashga yordam beradi.",
+                    "Steyk va shashlik tayyorlashda mahoratga egaman, oshpazlik qiziqishi bilan diqqatni birlashtiraman.",
+                    "Video o‘yinlarga qiziqaman; sevimli o‘yinim — Braid."
+                ]
+            }
+        },
+        "contacts": {
+            "description": "Men bilan qanday bog‘lanish mumkin"
+        }
+    }
+}

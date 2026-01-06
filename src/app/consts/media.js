@@ -3,20 +3,20 @@ import proxy from "../proxies/media"
 const media = {
     discord: {
         id: "914240860101681163",
-        tag: "elias.dev.",
+        tag: "fahri.dev.",
     },
     stackOverflow: {
         id: "19758208",
-        name: "elias",
+        name: "fahri",
     },
     github: "softerboy",
-    figma: "elias_dev",
-    replit: "EliasDev",
-    codewars: "EliasDevis",
-    devTo: "eliasdevis",
-    cssBattle: "elias_dev",
-    codepen: "elias_dev",
-    dribble: "Elias_dev",
+    figma: "fahri_dev",
+    replit: "FahriDev",
+    codewars: "FahriUmarov",
+    devTo: "fahriumarov",
+    cssBattle: "fahri_dev",
+    codepen: "fahri_dev",
+    dribble: "Fahri_dev",
     email: "fn.umarov@gmail.com",
     telegram: {
         nickname: "in_code"
@@ -24,4 +24,3 @@ const media = {
 }
 
 export default new Proxy(media, proxy);
-

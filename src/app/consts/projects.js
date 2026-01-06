@@ -69,8 +69,8 @@ const projects = [
         techs: ["js", "sass", "webpack"],
         links: {
             figma: "1164933568884615740",
-            github: "/EliasDevis.github.io",
-            live: "eliasdevis.github.io"
+            github: "/softerboy",
+            live: "fumarov.me"
         },
         hasImage: true,
     },
