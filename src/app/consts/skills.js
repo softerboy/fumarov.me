@@ -1,7 +1,7 @@
 export default {
-    language: ["js", "ts", "python"],
-    database: ["sqlite", "postgreSql"],
+    language: ["js", "ts", "php"],
+    database: ["sqlite", 'mysql', "postgreSql", 'mongo'],
     other: ["html", "css", "sass", "scss", "less", "stylus", "ejs", "jinja", "pug"],
     tool: ["vscode", "nvim", "figma", "git"],
-    framework: ["react", "next", "gulp", "express", "flask", "quart"]   
+    framework: ["react", "laravel", "express"]
 }

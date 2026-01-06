@@ -23,7 +23,7 @@ export default (t) => {
                 <div class="header__inner">
                     <a class="logo" href="/">
                         <img class="logo__img" src="/images/logo.svg" alt="Elias logo">
-                        <span class="logo__name">Elias</span>
+                        <span class="logo__name">Fahri</span>
                     </a>
                     <div class="header__links">
                         ${paths
@@ -43,7 +43,7 @@ export default (t) => {
 
                         <div class="dropdown__list">
                             <div class="dropdown__option">ru</div>
-                            <div class="dropdown__option">ua</div>
+                            <div class="dropdown__option">uz</div>
                         </div>
                     </div>
 

@@ -1,8 +1,11 @@
 export default {
     ts: "TypeScript",
     js: "JavaScript",
+    php: 'PHP',
+    laravel: 'Laravel',
     python: "Python",
     sqlite: "SQLite",
+    mysql: "MySQL",
     mongo: "MongoDB",
     postgreSql: "PostgreSQL",
     html: "HTML",

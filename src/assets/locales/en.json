@@ -6,7 +6,7 @@
         "contacts": "contacts"
     },
     "footer": {
-        "description": "Web designer and front-end developer based in Ukraine",
+        "description": "Full-stack Developer based in Uzbekistan",
         "copyright": "Copyright 2023. Made by Elias",
         "media": "Media"
     },
@@ -74,14 +74,14 @@
     "pages": {
         "home": {
             "hero": {
-                "title": "Elias is a <span>web designer</span> and <span>front-end</span> developer",
-                "description": "He crafts responsive websites where technologies meet creativity",
+                "title": "Hi, I'm Fahri. A <span>Full-Stack Developer</span> passionate about robust applications with <span>React</span>, <span>NodeJS</span>, and <span>Laravel</span>.",
+                "description": "I love creating seamless user experiences on the frontend and efficient, scalable APIs on the backend. Always eager to learn and explore new technologies!",
                 "button": "Contact ME",
                 "status": "Open for new opportunities"
             },
             "quote": {
-                "text": "With great power comes great electricity bill",
-                "author": "Dr. Who"
+                "text": "A full-stack developer is someone who fixes a CSS bug by updating a backend API… and somehow it works.",
+                "author": "Mr. ItWorksOnMyMachine"
             },
             "projects": {
                 "title": "projects",
@@ -93,14 +93,14 @@
             "about": {
                 "title": "about",
                 "description": [
-                    "I’m a self-taught front-end developer based in Warsaw, Poland. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. ",
-                    "Transforming my creativity and knowledge into a websites has been my passion for over two years. I have been helping various clients to establish their presence online. I always strive to learn about the newest technologies and frameworks."
+                    "I’m a self-taught full-stack developer based in Fergana, Uzbekistan. I build robust, scalable solutions from scratch, covering both front-end and back-end to deliver a seamless user experience.",
+                    "Turning ideas into end-to-end web applications has been my passion for over 5+ years. I’ve helped diverse clients bring their visions to life online and always keep up with the latest technologies and best practices."
                 ],
                 "button": "View all"
             },
             "contacts": {
                 "title": "contacts",
-                "text": "I’m interested in freelance opportunities. However, if you have other request or question, don’t hesitate to contact me",
+                "text": "If you have any other requests or questions, don’t hesitate to contact me.",
                 "media": "Message me here",
                 "donate": "Donate me here"
             }
@@ -115,9 +115,8 @@
             "description": "Who am i",
             "about": {
                 "description": [
-                    "I’m a self-taught front-end developer based in Warsaw, Poland. I can develop responsive websites from scratch and raise them into modern user-friendly web experiences. ",
-                    "Transforming my creativity and knowledge into a websites has been my passion for over a two years. I have been helping various clients to establish their presence online. ",
-                    "I always strive to learn about the newest technologies and frameworks. "
+                  "I’m a self-taught full-stack developer based in Fergana, Uzbekistan. I build robust, scalable solutions from scratch, covering both front-end and back-end to deliver a seamless user experience.",
+                  "Turning ideas into end-to-end web applications has been my passion for over 5+ years. I’ve helped diverse clients bring their visions to life online and always keep up with the latest technologies and best practices."
                 ]
             },
             "skills": {
@@ -126,9 +125,9 @@
             "facts": {
                 "title": "fun-facts",
                 "list": [
-                    "I like winter more than summer", 
+                    "I like winter more than summer",
                     "I often bike with my friends",
-                    "I like pizza and pasta", 
+                    "I like pizza and pasta",
                     "My favorite movie is The Green Mile"
                 ]
             }
