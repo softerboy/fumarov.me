@@ -1,4 +1,7 @@
 export default {
+    cpp: "C++",
+    java: "Java",
+    github: "GitHub",
     ts: "TypeScript",
     js: "JavaScript",
     php: 'PHP',
