@@ -18,13 +18,17 @@
         "framework": "Библиотеки"
     },
     "projects": {
+        "memewall": {
+            "name": "MemeWall",
+            "description": "Создавайте, сохраняйте и делитесь своими самыми смешными мемами!"
+        },
         "chertnodes": {
             "name": "ChertNodes",
             "description": "Хостинг майнкрафт серверов"
         },
         "protectx": {
-            "name": "ProtectX сайт",
-            "description": "Сайт для анти-краш дискорд бота"
+            "name": "ProtectX web",
+            "description": "Discord anti-crash bot"
         },
         "khanswers": {
             "name": "Kahoot Ответы",
@@ -60,7 +64,7 @@
         },
         "feedrum": {
             "name": "Feedrum",
-            "description": "Украинская социальная сеть для программистов"
+            "description": "Ukrainian social network designed for programmers"
         },
         "deplos": {
             "name": "Deplos",
@@ -68,14 +72,14 @@
         },
         "pixel-battle": {
             "name": "Pixel Battle",
-            "description": "Клон r/place"
+            "description": "Pixel art battle game"
         }
     },
     "pages": {
         "home": {
             "hero": {
-                "title": "Fahri - <span>Full-Stack</span> разработчик, который любит <span>React</span>, <span>NodeJS</span> и <span>Laravel</span>.",
-                "description": "Он создает адаптивные дизайны где пересекаются креативность и технологии",
+                "title": "Привет, я Fahri. <span>Full-Stack разработчик</span>, увлеченный созданием надежных приложений с использованием <span>React</span>, <span>NodeJS</span> и <span>Laravel</span>.",
+                "description": "Я люблю создавать плавный пользовательский опыт на фронтенде и эффективные, масштабируемые API на бэкенде. Всегда стремлюсь учиться и изучать новые технологии!",
                 "button": "Мои контакты",
                 "status": "Открыт для новых предложений"
             },

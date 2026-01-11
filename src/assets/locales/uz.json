@@ -18,13 +18,17 @@
         "framework": "Freymworklar"
     },
     "projects": {
+        "memewall": {
+            "name": "MemeWall",
+            "description": "Eng qiziqarli memlaringizni yarating, saqlang va baham ko'ring!"
+        },
         "chertnodes": {
             "name": "ChertNodes",
             "description": "Minecraft serverlari hosting"
         },
         "protectx": {
-            "name": "ProtectX veb-sayti",
-            "description": "Anti-crash Discord bot uchun veb-sayt"
+            "name": "ProtectX web",
+            "description": "Discord anti-crash bot"
         },
         "khanswers": {
             "name": "Kahoot Javoblari",
@@ -68,7 +72,7 @@
         },
         "pixel-battle": {
             "name": "Pixel Battle",
-            "description": "r/place kloni"
+            "description": "Pixel art battle game"
         }
     },
     "pages": {

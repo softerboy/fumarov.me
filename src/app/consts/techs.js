@@ -7,6 +7,8 @@ export default {
     sqlite: "SQLite",
     mysql: "MySQL",
     mongo: "MongoDB",
+    nestjs: "NestJS",
+    inertiajs: "InertiaJS",
     postgreSql: "PostgreSQL",
     html: "HTML",
     css: "CSS",
@@ -36,4 +38,5 @@ export default {
     deno: "Deno",
     pixijs: "PixiJS",
     preact: "Preact",
+    tailwindcss: "TailwindCSS",
 }

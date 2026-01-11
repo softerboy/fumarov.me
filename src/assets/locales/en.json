@@ -18,6 +18,10 @@
         "framework": "Frameworks"
     },
     "projects": {
+        "memewall": {
+            "name": "MemeWall",
+            "description": "Create, save and share your funniest memes!"
+        },
         "chertnodes": {
             "name": "ChertNodes",
             "description": "Minecraft servers hosting"
