@@ -22,6 +22,10 @@
             "name": "MemeWall",
             "description": "Create, save and share your funniest memes!"
         },
+        "memory-game": {
+            "name": "Memory Game",
+            "description": "Challenge your memory with our fun and engaging Memory Game. Match pairs of cards and improve your cognitive skills."
+        },
         "chertnodes": {
             "name": "ChertNodes",
             "description": "Minecraft servers hosting"

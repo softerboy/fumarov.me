@@ -11,15 +11,15 @@ const projects = [
         techs: ["laravel", "react", "inertiajs", "tailwindcss", "mysql"],
         hasImage: true,
     },
-    // {
-    //     id: "pixel-battle",
-    //     links: {
-    //         live: "pixelbattle.fun",
-    //         github: "pixelate-it/pixelbattle-frontend",
-    //     },
-    //     techs: ["preact", "css", "pixijs", "ts"],
-    //     hasImage: true
-    // },
+    {
+        id: "memory-game",
+        links: {
+            live: "memorygame.fumarov.me",
+            github: "softerboy/Quick-Memory-Game",
+        },
+        techs: ["react", "tailwindcss", "redux", "ts"],
+        hasImage: true
+    },
     // {
     //     id: "feedrum",
     //     links: {

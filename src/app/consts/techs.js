@@ -4,6 +4,7 @@ export default {
     github: "GitHub",
     ts: "TypeScript",
     js: "JavaScript",
+    redux: "Redux",
     php: 'PHP',
     laravel: 'Laravel',
     python: "Python",

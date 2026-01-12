@@ -22,6 +22,10 @@
             "name": "MemeWall",
             "description": "Eng qiziqarli memlaringizni yarating, saqlang va baham ko'ring!"
         },
+        "memory-game": {
+            "name": "Memory Game",
+            "description": "Qiziqarli va jalb etuvchi Xotira o‘yinimiz bilan xotirangizni sinab ko‘ring. Karta juftliklarini toping va kognitiv ko‘nikmalaringizni rivojlantiring."
+        },
         "chertnodes": {
             "name": "ChertNodes",
             "description": "Minecraft serverlari hosting"

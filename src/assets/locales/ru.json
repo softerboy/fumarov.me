@@ -22,6 +22,10 @@
             "name": "MemeWall",
             "description": "Создавайте, сохраняйте и делитесь своими самыми смешными мемами!"
         },
+        "memory-game": {
+            "name": "Memory Game",
+            "description": "Проверь свою память с помощью нашей увлекательной и захватывающей игры на запоминание. Находи пары карточек и улучшай свои когнитивные навыки"
+        },
         "chertnodes": {
             "name": "ChertNodes",
             "description": "Хостинг майнкрафт серверов"
@@ -65,14 +69,6 @@
         "feedrum": {
             "name": "Feedrum",
             "description": "Ukrainian social network designed for programmers"
-        },
-        "deplos": {
-            "name": "Deplos",
-            "description": "Хостинг для серверов разных игр"
-        },
-        "pixel-battle": {
-            "name": "Pixel Battle",
-            "description": "Pixel art battle game"
         }
     },
     "pages": {
