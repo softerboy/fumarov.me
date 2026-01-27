@@ -1,4 +1,5 @@
 export default {
+    bootstrap: "Bootstrap CSS",
     cpp: "C++",
     java: "Java",
     github: "GitHub",

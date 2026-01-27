@@ -26,49 +26,9 @@
             "name": "Memory Game",
             "description": "Находи пары карточек и улучшай свои когнитивные навыки"
         },
-        "chertnodes": {
-            "name": "ChertNodes",
-            "description": "Хостинг майнкрафт серверов"
-        },
-        "protectx": {
-            "name": "ProtectX web",
-            "description": "Discord anti-crash bot"
-        },
-        "khanswers": {
-            "name": "Kahoot Ответы",
-            "description": "Получить ответы с кахут задания"
-        },
-        "kotikbot": {
-            "name": "КотикБот",
-            "description": "Сайт для мультифункционального дискорд бота"
-        },
-        "portfolio": {
-            "name": "Это портфолио",
-            "description": "Мое портфолио"
-        },
-        "blog": {
-            "name": "Мой блог",
-            "description": "Мой личный блог"
-        },
-        "discordbot": {
-            "name": "Шаблон дискорд бота",
-            "description": "Начни создавать дискорд бота с тайпскриптом за секунды"
-        },
-        "chesspro": {
-            "name": "Chess PRO",
-            "description": "Сайт для просмотра шахматных турниров"
-        },
-        "ooku": {
-            "name": "Ooku",
-            "description": "Сокращатель ссылок с авторизацией дискорд"
-        },
-        "madhost": {
-            "name": "MadHost",
-            "description": "Хостинг сайтов и майнкрафт серверов по низким ценнам"
-        },
-        "feedrum": {
-            "name": "Feedrum",
-            "description": "Ukrainian social network designed for programmers"
+        "calculator": {
+            "name": "Калькулятор",
+            "description": "Полнофункциональный калькулятор, созданный с помощью React с ☕ и ❤"
         }
     },
     "pages": {

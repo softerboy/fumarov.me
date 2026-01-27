@@ -18,6 +18,7 @@ const media = {
     codepen: "fahri_dev",
     dribble: "Fahri_dev",
     email: "fn.umarov@gmail.com",
+    linkedin: "fakhriddin-umarov-054ab63a4",
     telegram: {
         nickname: "in_code"
     }

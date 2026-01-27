@@ -26,57 +26,9 @@
             "name": "Memory Game",
             "description": "Karta juftliklarini toping va xotira ko‘nikmalaringizni rivojlantiring."
         },
-        "chertnodes": {
-            "name": "ChertNodes",
-            "description": "Minecraft serverlari hosting"
-        },
-        "protectx": {
-            "name": "ProtectX web",
-            "description": "Discord anti-crash bot"
-        },
-        "khanswers": {
-            "name": "Kahoot Javoblari",
-            "description": "Kahoot topshiriqlaridan javoblarni olish"
-        },
-        "kotikbot": {
-            "name": "KotikBot",
-            "description": "Ko'p funksiyali Discord bot uchun veb-sayt"
-        },
-        "portfolio": {
-            "name": "Ushbu portfolio",
-            "description": "Mening shaxsiy portfoliom"
-        },
-        "blog": {
-            "name": "Mening blogim",
-            "description": "Kelajakdagi blogimning frontend qismi"
-        },
-        "discordbot": {
-            "name": "Discord bot shabloni",
-            "description": "TypeScript bilan Discord botini yaratishni soniyalarda boshlang"
-        },
-        "chesspro": {
-            "name": "Chess PRO",
-            "description": "Shaxmat turnirlarini ko'rish uchun veb-sayt"
-        },
-        "ooku": {
-            "name": "Ooku",
-            "description": "Discord autentifikatsiyasi bilan URL qisqartiruvchi"
-        },
-        "madhost": {
-            "name": "MadHost",
-            "description": "Arzon narxlarda veb-saytlar va Minecraft serverlari hosting"
-        },
-        "feedrum": {
-            "name": "Feedrum",
-            "description": "O'zbek dasturchilar uchun ijtimoiy tarmoq"
-        },
-        "deplos": {
-            "name": "Deplos",
-            "description": "Turli o'yinlar serverlari uchun hosting"
-        },
-        "pixel-battle": {
-            "name": "Pixel Battle",
-            "description": "Pixel art battle game"
+        "calculator": {
+            "name": "Kalkulyator",
+            "description": "React yordamida ☕ va ❤ bilan yaratilgan to‘liq funksiyali kalkulyator"
         }
     },
     "pages": {

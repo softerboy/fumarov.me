@@ -11,4 +11,5 @@ export default {
     dribble: "dribbble.com/",
     email: "mailto:",
     telegram: 'https://t.me/',
+    linkedin: "www.linkedin.com/in/",
 }

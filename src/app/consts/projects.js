@@ -20,15 +20,15 @@ const projects = [
         techs: ["react", "tailwindcss", "redux", "ts"],
         hasImage: true
     },
-    // {
-    //     id: "feedrum",
-    //     links: {
-    //         github: "Feedrum-Project/feedrum-next",
-    //         figma: "1314605686829534158"
-    //     },
-    //     techs: ["node", "next", "react", "zod"],
-    //     hasImage: true,
-    // },
+    {
+        id: "calculator",
+        links: {
+            live: "calc.fumarov.me",
+            github: "softerboy/calculator",
+        },
+        techs: ["js", "react", "redux", "bootstrap"],
+        hasImage: true,
+    },
     // {
     //     id: "chertnodes",
     //     links: {
